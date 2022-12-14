@@ -1,7 +1,6 @@
 #include "main.h"
 
 
-
 /**
  * times_table - prints the 9 times table, starting with 0
 ** by Simon Chukwunwike
@@ -21,14 +20,14 @@ void times_table(void)
 			{
 				_puchar(k + '0');
 			}
-			if (k < 10 && j != 0)
+				if (k < 10 && j != 0)
 			{
 				_putchar(',');
 				_putchar(' ');
 				_putchar(' ');
 				_putchar(k + '0');
 			}
-			else if (k >= 10)
+				else if (k >= 10)
 			{
 				_putchar(',');
 				_putchar(' ');
