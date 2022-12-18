@@ -3,8 +3,9 @@
 
 
 /**
-* _isdigit - a function that checks for a digit (0 through 9).
-* Return:  0 or 1
+** _isdigit - a function that checks for a digit (0 through 9).
+** Return: 0 or 1
+** @c: char to check
 */
 
 int _isdigit(int c)
@@ -14,4 +15,5 @@ int _isdigit(int c)
 		return (1);
 	else
 		return (0);
+
 }
