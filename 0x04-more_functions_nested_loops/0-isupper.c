@@ -1,23 +1,15 @@
-/**
-* More function nested loop
-* by Simon Chukwunwike
-*/
-
-
-
 #include "main.h"
 
 
 
 /**
- * _isupper - uppercase letters
+ ** _isupper - uppercase letters
  * @c: character to check
  *
  * Return: 0 or 1
- */
+*/
 
 int _isupper(int c)
-
 
 {
 	if (c >= 'A' && c <= 'Z')
