@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * reset_to_98 - Update the value of n to 98 using pionter
+ * reset_to_98 - Update the value of a var using pointers
  * @n: int to update
  * by Simon Chukwunwike
  * Return 0
