@@ -2,7 +2,7 @@
 
 /**
  * _strncat - tow string concatenation
- * @src: The string source 
+ * @src: The string source
  * @dest: The destination of the string
  * @n: The length of int
  * Return: pointer to the resulting string dest
