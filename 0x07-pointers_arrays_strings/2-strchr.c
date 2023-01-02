@@ -7,7 +7,7 @@
  *
  * @s: in the string
  *
- * Return: a pointer to the first occurrence of the character c
+ * Return: a pointer to the first occurrence of the character
  */
 
 char *_strchr(char *s, char c)
