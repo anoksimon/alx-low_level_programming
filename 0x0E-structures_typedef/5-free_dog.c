@@ -2,7 +2,7 @@
 #include "dog.h"
 
 /**
- * free_fpg - frees dogs
+ * free_dog - frees dogs
  * @d: pointer to dog to free
  *
  * Return: void
